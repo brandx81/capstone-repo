@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/brand/OneDrive/Documents/GitHub/capstone-repo/Sales.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/brand/OneDrive/Documents/GitHub/capstone-repo/Purchases.csv filter=lfs diff=lfs merge=lfs -text
